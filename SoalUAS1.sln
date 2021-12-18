@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoalUAS1", "SoalUAS1\SoalUAS1.csproj", "{31C6C4B1-BE9A-45AB-9E46-2C7786AAEB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C6C4B1-BE9A-45AB-9E46-2C7786AAEB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C6C4B1-BE9A-45AB-9E46-2C7786AAEB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C6C4B1-BE9A-45AB-9E46-2C7786AAEB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C6C4B1-BE9A-45AB-9E46-2C7786AAEB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30F38EA-34EB-43D9-8B55-FDE5E40EE9AD}
+	EndGlobalSection
+EndGlobal
